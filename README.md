@@ -10,5 +10,3 @@
 
 ### Contact
 #### If you want to talk about anything JavaScript or Python, feel free to message me [on Twitter](https://twitter.com/CerchieLucia). You can also email me at luciacerchie@gmail.com
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Cerchie)](https://github.com/anuraghazra/github-readme-stats)
