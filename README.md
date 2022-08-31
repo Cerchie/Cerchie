@@ -9,7 +9,7 @@ I'm a developer advocate from the Southwestern US. 🌵
 
 I love to create content that teaches people how to get started coding, and then teaches them how to keep coding better. 🚀
 
-I'm a contributing member at [Virtual Coffee](https://virtualcoffee.io/), where I host weekly zoom rooms and help plan for our Hacktoberfest initiative. 🎃 
+I'm a contributing member at [Virtual Coffee](https://virtualcoffee.io/), where I co-host weekly zoom rooms and help plan for our Hacktoberfest initiative. 🎃 
 
 I'm also an ambassador for [Auth0](https://auth0.com/ambassador-program), where I create content centering on teaching people security concepts and implementations. 🔑
 
