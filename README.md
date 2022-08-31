@@ -13,6 +13,8 @@ I'm a contributing member at [Virtual Coffee](https://virtualcoffee.io/), where 
 
 I'm also an ambassador for [Auth0](https://auth0.com/ambassador-program), where I create content centering on teaching people security concepts and implementations. 🔑
 
+Links: 
+
 - [Website](https://luciacerchie.dev/)
 - [Twitter](https://twitter.com/CerchieLucia)
 - [Dev.to](https://dev.to/cerchie)
