@@ -10,6 +10,7 @@ I'm a developer advocate from the Southwestern US. 🌵
 I love to create content that teaches people how to get started and keep coding. 🚀
 
 I'm a contributing member at [Virtual Coffee](https://virtualcoffee.io/), where I co-host weekly zoom rooms and help plan for our Hacktoberfest initiative. 🎃 
+
 Links: 
 
 - [Website](https://luciacerchie.dev/)
