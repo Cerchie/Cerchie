@@ -9,7 +9,7 @@ I'm a developer advocate from the Southwestern US. 🌵
 
 I love to create content that teaches people how to get started and keep coding. 🚀
 
-I'm a contributing volunteer at [Virtual Coffee](https://virtualcoffee.io/), where I help plan for our Hacktoberfest initiative. 🎃 
+I'm a contributing volunteer at [Virtual Coffee](https://virtualcoffee.io/).
 
 Links: 
 
