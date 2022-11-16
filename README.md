@@ -1,6 +1,6 @@
 
 
-# Hey there, I'm [Lucia Cerchie!](http://luciacerchie.dev) ⭐
+# Hey there, I'm [Lucia Cerchie!](http://luciacerchie.dev)
 
 I'm a developer advocate from the Southwestern US. 🌵 I believe in a human-centered developer experience, in the teaching responsibility of developer advocates, and in the joy of learning.
 
