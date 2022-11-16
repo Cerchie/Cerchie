@@ -6,7 +6,7 @@ I'm a developer advocate from the Southwestern US. I believe in a human-centered
 
 <img align="right" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/screen open.gif" width="400"/>
 
-I'm a contributing volunteer at [Virtual Coffee](https://virtualcoffee.io/), and I currently work at Confluent.
+I'm a contributing volunteer at [Virtual Coffee](https://virtualcoffee.io/), & I currently work at Confluent.
 
 I moonlight as a haiku writer and avid doodler. 
 
