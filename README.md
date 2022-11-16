@@ -1,19 +1,16 @@
 
 
-<!--
-**Cerchie/Cerchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+# Hey there, I'm [Lucia Cerchie!](http://luciacerchie.dev) ⭐
 
-# Hey there, I'm Lucia Cerchie! ⭐
+I'm a developer advocate from the Southwestern US. 🌵 I believe in a human-centered developer experience, in the teaching responsibility of developer advocates, and in the joy of learning.
 
-I'm a developer advocate from the Southwestern US. 🌵
+I'm a contributing volunteer at [Virtual Coffee](https://virtualcoffee.io/), and I currently work at Confluent.
 
-I love to create content that teaches people how to get started and keep coding. 🚀
+![Twitter](https://img.shields.io/twitter/follow/CerchieLucia?color=pink&logo=Twitter&logoColor=white&style=for-the-badge)
 
-I'm a contributing volunteer at [Virtual Coffee](https://virtualcoffee.io/).
+![Mastodon](https://img.shields.io/mastodon/follow/109309004805959767?color=pink&domain=https%3A%2F%2Fdata-folks.masto.host&logo=mastodon&style=for-the-badge)
 
-Links: 
+![number of stars](https://img.shields.io/github/stars/Cerchie?color=pink&style=for-the-badge)
 
-- [Website](https://luciacerchie.dev/)
-- [Twitter](https://twitter.com/CerchieLucia)
-- [Dev.to](https://dev.to/cerchie)
-- [Mastodon](https://data-folks.masto.host/@Cerchie)
+[luciacerchie.dev](http://luciacerchie.dev)
+
