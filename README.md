@@ -16,3 +16,4 @@ Links:
 - [Website](https://luciacerchie.dev/)
 - [Twitter](https://twitter.com/CerchieLucia)
 - [Dev.to](https://dev.to/cerchie)
+- [Mastodon](https://data-folks.masto.host/@Cerchie)
