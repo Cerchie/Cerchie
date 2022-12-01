@@ -12,7 +12,7 @@ I moonlight as a haiku writer and avid doodler.
 
 ![Twitter](https://img.shields.io/twitter/follow/CerchieLucia?color=pink&logo=Twitter&logoColor=white&style=for-the-badge)
 
-![Mastodon](https://img.shields.io/mastodon/follow/109309004805959767?color=pink&domain=https%3A%2F%2Fdata-folks.masto.host&logo=mastodon&style=for-the-badge)
+![Mastodon](https://img.shields.io/mastodon/follow/109309004805959767?color=pink&domain=https%3A%2F%2Fdata-folks.masto.host&logo=mastodon&style=for-the-badge) <a rel="me" href="https://data-folks.masto.host/@Cerchie">link</a>
 
 ![number of stars](https://img.shields.io/github/stars/Cerchie?color=pink&style=for-the-badge)
 
