@@ -6,7 +6,7 @@
 
 I'm a [developer advocate](http://luciacerchie.dev) from the Southwestern US. I believe in a human-centered developer experience, in the teaching responsibility of developer advocates, and in the joy of learning.
 
-I'm a contributing volunteer at [Virtual Coffee](https://virtualcoffee.io/), & I currently work at [Confluent](https://developer.confluent.io/).
+I currently work at [Confluent](https://developer.confluent.io/).
 
 I moonlight as a haiku writer and avid doodler. 
 
