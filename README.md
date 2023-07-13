@@ -14,5 +14,11 @@ I moonlight as a haiku writer and avid doodler.
 
 ![number of stars](https://img.shields.io/github/stars/Cerchie?color=pink&style=for-the-badge)
 
+![LinkedIn](https://www.linkedin.com/in/luciacerchie/)
+
+![Twitter](https://twitter.com/CerchieLucia)
+
+![Threads](https://www.threads.net/@luciacerchie)
+
 ## [luciacerchie.dev](http://luciacerchie.dev)
 
