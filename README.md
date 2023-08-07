@@ -10,8 +10,6 @@ I currently work at [Confluent](https://developer.confluent.io/).
 
 I moonlight as a haiku writer and avid doodler. 
 
-![Mastodon](https://img.shields.io/mastodon/follow/109309004805959767?color=pink&domain=https%3A%2F%2Fdata-folks.masto.host&logo=mastodon&style=for-the-badge) <a rel="me" href="https://data-folks.masto.host/@Cerchie">link</a>
-
 ![number of stars](https://img.shields.io/github/stars/Cerchie?color=pink&style=for-the-badge)
 
 [LinkedIn](https://www.linkedin.com/in/luciacerchie/)
@@ -19,6 +17,8 @@ I moonlight as a haiku writer and avid doodler.
 [Twitter](https://twitter.com/CerchieLucia)
 
 [Threads](https://www.threads.net/@luciacerchie)
+
+[Mastodon](https://data-folks.masto.host/@Cerchie)
 
 ## [luciacerchie.dev](http://luciacerchie.dev)
 
