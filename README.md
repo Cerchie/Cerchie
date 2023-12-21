@@ -8,8 +8,6 @@ I'm a [developer advocate](http://luciacerchie.dev) from the Southwestern US. I 
 
 I currently work at [Confluent](https://developer.confluent.io/).
 
-I moonlight as a haiku writer and avid doodler. 
-
 ![number of stars](https://img.shields.io/github/stars/Cerchie?color=pink&style=for-the-badge)
 
 [LinkedIn](https://www.linkedin.com/in/luciacerchie/)
