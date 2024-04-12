@@ -12,11 +12,5 @@ I currently work at [Confluent](https://developer.confluent.io/).
 
 [LinkedIn](https://www.linkedin.com/in/luciacerchie/)
 
-[Twitter](https://twitter.com/CerchieLucia)
-
-[Threads](https://www.threads.net/@luciacerchie)
-
-[Mastodon](https://data-folks.masto.host/@Cerchie)
-
 ## [luciacerchie.dev](http://luciacerchie.dev)
 
